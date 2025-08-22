@@ -16,11 +16,11 @@ This project showcases end-to-end data science methodology, from data collection
 
 ### Technical Scope
 
-This project demonstrates expertise in:
+This project covers:
 - **Data Engineering**: Large-scale text data processing and cleaning
-- **Natural Language Processing**: Advanced text preprocessing, topic modeling with LDA
-- **Deep Learning**: Custom neural network design and optimization with PyTorch
-- **Model Evaluation**: Comprehensive performance analysis and validation
+- **Natural Language Processing**: Text preprocessing, topic modeling with LDA
+- **Deep Learning**: Neural network design and optimization with PyTorch
+- **Model Evaluation**: Performance analysis and validation
 
 ## 📁 Project Structure
 
